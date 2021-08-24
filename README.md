@@ -1,1 +1,2 @@
 # NUMERICAL-METHODS
+## ESCOBAR, Angela Shanine G.
